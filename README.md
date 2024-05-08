@@ -380,7 +380,7 @@ person
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by Ragavi(23012384) </center>
+        <center> Designed and Developed by Kesav Deepak Sridharan (212223230104) </center>
     </footer>
 </body>
 </html>
@@ -827,7 +827,7 @@ contact
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by Ragavi(23012384) </center>
+        <center> Designed and Developed by Kesav Deepk Sridharan(212223230104) </center>
     </footer>
 </body>
 </html>
